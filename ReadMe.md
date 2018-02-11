@@ -1,1 +1,1 @@
-#PeopleJoy basic login/logout
+PeopleJoy basic login/logout
